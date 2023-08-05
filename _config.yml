@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "HappyPublisher / HomePage"
 title_separator          : "-"
 name                     : &name "HappyPublisher"
 description              : &description "a game developer and 3D modeling enthusiast"
